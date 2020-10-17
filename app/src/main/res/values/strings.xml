@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Buckos Markup Tool</string>
+
+    <string name="part_price_label">Part Price</string>
+    <string name="is_subzero_label">Subzero Pricing?</string>
+    <string name="markup_label">Markup Amount</string>
+    <string name="total_label">Total</string>
+    <string name="ON">YES</string>
+    <string name="OFF">NO</string>
+
+
+    <string name="part_price"></string>
+    <string name="markup">$0.00</string>
+    <string name="total">$0.00</string>
+</resources>
