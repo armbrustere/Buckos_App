@@ -89,7 +89,8 @@
             android:showText="true"
             android:textOff="@string/OFF"
             android:textOn="@string/ON"
-            android:gravity="center_horizontal"/>
+            android:gravity="center_horizontal"
+            tools:ignore="UseSwitchCompatOrMaterialXml" />
 
         <TextView
             android:id="@+id/markupTextView"
