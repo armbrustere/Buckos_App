@@ -1,5 +1,5 @@
 # Welcome!
-An Android app built for repair technicains who need to easily calculate a markup for a part.
+An Android app built for repair technicians who need to easily calculate a markup for a part.
 - More features coming soon!
 
 # Creator
